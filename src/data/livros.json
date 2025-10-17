@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "titulo": "O Programador Pragmático (Edição Revisada)",
+    "autor": "Andrew Hunt e David Thomas",
+    "categoria": "Programação",
+    "ano": 2019
+  },
+  {
+    "id": 3,
+    "titulo": "Entendendo Algoritmos",
+    "autor": "Aditya Y. Bhargava",
+    "categoria": "Programação",
+    "ano": 2017
+  }
+]
